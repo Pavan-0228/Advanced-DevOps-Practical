@@ -12,8 +12,9 @@ This repository is dedicated to the **Advanced DevOps Practical** where we explo
 3. [Installation](#installation)
    - [Terraform](#terraform)
    - [Kubernetes](#kubernetes)
-4. [For Viva](#for-viva)
-5. [FAQs](#faqs)
+4. [Code Quality Analysis (SonarQube)](#code-quality-analysis-sonarqube)
+5. [For Viva](#for-viva)
+6. [FAQs](#faqs)
 
 ---
 
@@ -41,6 +42,35 @@ Kubernetes is a container orchestration tool that helps in managing containerize
 - **Docker Alternative**: If VirtualBox doesn't work, you can install Docker and complete the exercise using this guide: [Docker Installation](https://youtu.be/mS26N5cLBe8?si=Y69TqfsQTD_0K3jd)
 
 ---
+
+
+## Code Quality Analysis (SonarQube)
+
+This section covers the installation of **SonarQube** and its integration with **Jenkins** for continuous code quality analysis.
+
+### Installation Guides
+
+#### SonarQube Installation on Windows
+SonarQube is a popular tool for static code analysis that helps ensure code quality. Below is the guide to install SonarQube on Windows:
+
+- **Video Tutorial**: [SonarQube Installation in Windows](https://youtu.be/CURSk7cto_0?si=ew624NZcuNGUbwBx)
+
+### Integration Guides
+
+#### SonarQube Integration with Jenkins
+
+For continuous code analysis in Jenkins pipelines, you can integrate SonarQube with Jenkins. Follow these video tutorials for step-by-step guidance:
+
+1. **Complete Integration of SonarQube with Jenkins - Part 1**  
+   Set up SonarQube with Jenkins, configure plugins, and run initial tests.  
+   - **Video Tutorial**: [SonarQube with Jenkins - Part 1](https://youtu.be/uMVflNm3e9Q?si=_S0z__Q1VyPJHV3r)
+
+2. **Trigger SonarQube Analysis from Jenkins - Part 2**  
+   Learn how to trigger SonarQube analysis from a Jenkins job and automate quality checks.  
+   - **Video Tutorial**: [SonarQube with Jenkins - Part 2](https://youtu.be/sk36v_gEjxM?si=kp-w1X1MftFkrGmx)
+
+---
+
 
 ## Useful Links
 
