@@ -13,8 +13,9 @@ This repository is dedicated to the **Advanced DevOps Practical** where we explo
    - [Terraform](#terraform)
    - [Kubernetes](#kubernetes)
 4. [Code Quality Analysis (SonarQube)](#code-quality-analysis-sonarqube)
-5. [For Viva](#for-viva)
-6. [FAQs](#faqs)
+5. [AWS S3 Bucket](https://youtu.be/MwFH65uTMXw?si=_1BGmJ0lMC9-9LZI)
+6. [For Viva](#for-viva)
+7. [FAQs](#faqs)
 
 ---
 
