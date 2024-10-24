@@ -124,5 +124,7 @@ Make sure to familiarize yourself with these key concepts for your viva:
 ### Q: Is key pair required to launch an EC2 instance?
 **A:** Yes, for secure SSH access to the instance.
 
+[sl](https://youtu.be/h493ZaovUa0?si=gLhsm53FuCbpr1HN)
+
 ---
 
